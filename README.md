@@ -1,1 +1,1 @@
-Live Demo: https://colour-guessing-game-theta.vercel.app/
+Live Link: https://colour-guessing-game-theta.vercel.app/
